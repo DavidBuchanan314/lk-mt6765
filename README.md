@@ -7,3 +7,7 @@ I'm mostly interested in this source for reverse engineering purposes ("where do
 I'm also interested in the possibility of using mtkclient to bootstrap a custom kernel *without* making any permanent changes to flash.
 
 I'm intrigued by this patch that supports booting linux from RAM: https://github.com/Gigaset-dev/lk2/commit/ab107ff351cb5550ee2aa92b0b7bc6ac0089befc
+
+# Compiling
+
+Run `make` and then figure out why it didn't work. (TODO: figure this out lol)
