@@ -10,4 +10,4 @@ I'm intrigued by this patch that supports booting linux from RAM: https://github
 
 # Compiling
 
-Run `make` and then figure out why it didn't work. (TODO: figure this out lol)
+Run `cd lk; make` and then figure out why it didn't work. (TODO: figure this out lol)
